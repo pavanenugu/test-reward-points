@@ -1,5 +1,5 @@
 ## `Info`
-### This project is done as part of assesement.
+### This project is done as part of assesement, so used only react as its just a view only.
 
 ### `yarn`
 
